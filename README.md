@@ -1,4 +1,4 @@
-# Projekt-zespo-owy-systemu-informatycznego-URLOP
+# Projekt-zespo-owy-systemu-informatycznego-URLOP, grupa 4
 ## KARTA PROJEKTU — WERSJA 0.1
 
 ### 1. Podstawowe informacje
