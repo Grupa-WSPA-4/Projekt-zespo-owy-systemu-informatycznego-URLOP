@@ -1,27 +1,28 @@
-System obsługi urlopów pracowniczych (URLOPY)
-Istota i cel projektu
-Aplikacja internetowa służąca do automatyzacji i cyfryzacji procesu wnioskowania o urlopy oraz zarządzania nieobecnościami pracowników w firmie.
-System zastępuje tradycyjne, papierowe wnioski szybkim obiegiem cyfrowym, eliminując błędy i usprawniając komunikację między pracownikami, kadrami a kadrą kierowniczą.
+# System Zarządzania Urlopami (URLOPY)
 
-Główne funkcjonalności z podziałem na role
-Pracownik:
+Krótki opis: System rozwiązuje problem ręcznego i chaotycznego zgłaszania urlopów w firmie poprzez cyfryzację procesu wnioskowania. Zapewnia automatyczne weryfikowanie limitów dni wolnych oraz umożliwia przełożonym szybkie akceptowanie wniosków i podgląd nieobecności zespołu w czytelnym kalendarzu.
 
-Podgląd aktualnego limitu dostępnych dni urlopowych.
+## Zespół
 
-Składanie elektronicznych wniosków urlopowych na wybrane terminy.
+| Osoba | Główna odpowiedzialność | Login |
+|---|---|---|
+| Yevhenii | koordynacja projektu | @yevhenii |
+| Mukhammed | analiza wymagań | @mukhammed |
+| Yauheni | baza danych i architektura | @yauheni |
+| Andrii | logika biznesowa i testy | @andrii |
+| Aldiyar | interfejs użytkownika (UI/UX) | @aldiyar |
 
-Śledzenie statusu wniosku (np. Oczekujący, Zatwierdzony, Odrzucony).
+## Dokumentacja
 
-Przełożony / Kierownik:
+- [Karta projektu](docs/01-karta-projektu.md)
+- [Słownik](docs/02-slownik.md)
+- [Wymagania](docs/03-wymagania.md)
+- [Decyzje projektowe (ADR)](docs/adr/)
 
-Przeglądanie i weryfikacja wniosków złożonych przez podwładnych.
+## Narzędzia
 
-Podgląd ogólnego kalendarza nieobecności zespołu (zapobieganie brakom kadrowym).
+Zob. [ADR-001](docs/adr/ADR-001-narzedzia.md).
 
-Szybka akceptacja lub odrzucenie wniosku jednym kliknięciem.
+## Status
 
-Dział HR / Administrator (Kadry):
-
-Zarządzanie kontami pracowników oraz przydzielanie rocznych limitów urlopowych.
-
-Generowanie raportów i podgląd statystyk dotyczących nieobecności.
+Wersja dokumentacji: 0.3
