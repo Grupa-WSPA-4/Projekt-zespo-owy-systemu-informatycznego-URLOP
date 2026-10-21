@@ -15,11 +15,11 @@ URLOPY
 
 | Imię i nazwisko | Rola główna | Kontakt / login repozytorium |
 |---|---|---|
-| Yevhenii Bytsko|Kierownik | |
-| Yauheni Dzerhach|Architekt i Projektant bazy danych | |
-| Andrii Vydrych|Tester & Backend Developer | |
-| Aldiyar Zhailauov|Projektant UI/UX & Frontend | |
-| Mukhammed Mukhamedya|Analityk biznesowy | |
+| Yevhenii Bytsko|Kierownik | mageka1 |
+| Yauheni Dzerhach|Architekt i Projektant bazy danych | HappyChoper |
+| Andrii Vydrych|Tester & Backend Developer | abgzs |
+| Aldiyar Zhailauov|Projektant UI/UX & Frontend | p1pop |
+| Mukhammed Mukhamedya|Analityk biznesowy | kapeshonx |
 
 ---
 
