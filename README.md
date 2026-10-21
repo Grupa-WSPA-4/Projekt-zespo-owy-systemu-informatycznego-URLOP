@@ -6,11 +6,11 @@ Krótki opis: System rozwiązuje problem ręcznego i chaotycznego zgłaszania ur
 
 | Osoba | Główna odpowiedzialność | Login |
 |---|---|---|
-| Yevhenii | koordynacja projektu | @yevhenii |
-| Mukhammed | analiza wymagań | @mukhammed |
-| Yauheni | baza danych i architektura | @yauheni |
-| Andrii | logika biznesowa i testy | @andrii |
-| Aldiyar | interfejs użytkownika (UI/UX) | @aldiyar |
+| Yevhenii  | koordynacja projektu | @mageka1 |
+| Mukhammed | analiza wymagań | @kapeshonx |
+| Yauheni | baza danych i architektura | @HappyChoper |
+| Andrii | logika biznesowa i testy | @abgzs |
+| Aldiyar | interfejs użytkownika (UI/UX) | @p1pop |
 
 ## Dokumentacja
 
