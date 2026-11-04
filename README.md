@@ -21,7 +21,7 @@ Krótki opis: System rozwiązuje problem ręcznego i chaotycznego zgłaszania ur
 
 ## Narzędzia
 
-Zob. [ADR-001](docs/adr/ADR-001-narzedzia.md).
+Zob. [ADR-001](docs/adr/ADR-001.md).
 
 ## Status
 
