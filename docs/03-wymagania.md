@@ -1,7 +1,7 @@
 # Wymagania — System URLOPY
 
-**Wersja:** 0.2  
-**Data:** 2026-11-03  
+**Wersja:** 0.2.1 
+**Data:** 18.11.2026  
 **Autorzy:** Zespół projektowy URLOPY (Yevhenii, Mukhammed, Yauheni, Andrii, Aldiyar)
 
 ## 1. Potrzeby
@@ -35,6 +35,9 @@
 | FR-13 | System musi umożliwiać administratorowi zarządzanie kontami użytkowników i strukturą organizacyjną firmy. | N-06 | **Must** | Panel administratora |
 | FR-14 | System musi umożliwiać administratorowi/kadrom wprowadzanie oraz aktualizowanie rocznych limitów urlopowych dla pracowników. | N-06 | **Must** | Zarządzanie limitami |
 | FR-15 | System musi generować podstawowe raporty i zestawienia nieobecności oraz historii urlopów w firmie. | N-01, N-03 | **Should** | Raporty kadrowe |
+| FR-16 | System musi blokować możliwość złożenia wniosku urlopowego, jeśli liczba żądanych dni przekracza dostępny limit pracownika.
+| FR-17 | System powinien automatycznie wysyłać powiadomienie e-mail do bezpośredniego przełożonego w momencie złożenia nowego wniosku przez pracownika.
+| FR-18 | Pracownik musi mieć możliwość anulowania złożonego wniosku, jeśli nie został on jeszcze rozpatrzony przez przełożonego.
 
 ## 3. Wymagania niefunkcjonalne (NFR) — wg ISO/IEC 25010
 
@@ -48,6 +51,7 @@
 | NFR-06 | Skalowabilidad (Maintainability) | Architektura systemowa musi umożliwiać bezproblemową rozbudowę o nowe role lub działy firmy bez przebudowy bazy danych. | N-06 | **Should** | przegląd architektury |
 | NFR-07 | Zgodność (Compatibility / Compliance) | System musi uwzględniać polskie przepisy Kodeksu Pracy w zakresie naliczania limitów, urlopów na żądanie oraz rocznych rozliczeń. | N-06 | **Must** | weryfikacja prawna |
 | NFR-08 | Utrzymaniowalność (Maintainability) | Kod źródłowy projektu musi być w pełni udokumentowany, a wersjonowanie zmian prowadzone w repozytorium GitHub zgodnie z ADR. | N-01 | **Must** | przegląd repozytorium |
+| NFR-09 | Interfejs użytkownika (UI) formularza wniosku urlopowego musi wyświetlać błędy walidacji w czasie rzeczywistym przed próbą wysłania formularza.
 
 ## 4. Reguły biznesowe (BR)
 
