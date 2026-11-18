@@ -1,6 +1,6 @@
 # Macierz śledzenia
 
-**Wersja:** 0.1
+**Wersja:** 0.2
 
 | Potrzeba | Wymaganie | Historyjka | Priorytet | Proces biznesowy |
 | :--- | :--- | :--- | :--- | :--- |
