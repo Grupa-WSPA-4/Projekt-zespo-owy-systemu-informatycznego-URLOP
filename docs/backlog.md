@@ -1,4 +1,4 @@
-# Backlog Produktu — System URLOPY
+# Backlog produktu — System URLOPY
 
 Ten dokument odzwierciedla strukturę **Backlogu produktu** utworzonego w usłudze **GitHub Projects** dla systemu zarządzania urlopami.
 
